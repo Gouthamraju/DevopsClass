@@ -1,0 +1,5 @@
+node {
+    stage ('dev'){
+       git 'https://github.com/Gouthamraju/DevopsClass.git' 
+    }
+}
